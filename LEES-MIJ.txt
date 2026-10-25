@@ -1,0 +1,4 @@
+FormaFit - klikbaar prototype
+Dubbelklik op dashboard.html om te starten (Chrome, Edge, Firefox of Safari). Er is geen installatie of internet nodig.
+Alle gegevens (workouts, doelen, voeding, instellingen) worden in je eigen browser bewaard (localStorage).
+Wil je opnieuw beginnen? Profiel -> "Clear Local Data".
